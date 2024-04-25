@@ -1,8 +1,13 @@
-# 😮‍💨
+# 🗡️ Perseus (aka Denil)
 
-### Hi there 👋
+### Hi there! 👋
 
-<!--
+I'm an aspiring indie full-stack developer and a student pursuing studies in AI at the University of Edinburgh. My journey in computer science began at Fergusson College, Pune, where I honed my skills and developed a deep fascination for the digital world.  
+
+Driven by an insatiable curiosity, my coding projects are built from the ground up, fueled by a relentless passion for exploring and creating my vision of the future, one step at a time.
+
+Join me as I embark on this exciting adventure, constantly learning and pushing the boundaries of what's possible!
+
 **Perseus-101/Perseus-101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
