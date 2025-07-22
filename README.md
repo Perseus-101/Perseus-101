@@ -14,7 +14,7 @@ I'm an MSc AI student at the University of Edinburgh, deeply passionate about th
 * **Languages:** Python, C++, Java, SQL  
 * **AI/ML Libraries:** LangChain, PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy, OpenCV  
 * **Vector Databases:** ChromaDB, FAISS  
-* **Tools:** Git, Docker, CI/CD, VS Code, Jupyter Notebooks, LM Studio
+* **Tools:** Git, VS Code, Jupyter Notebooks, LM Studio
 
 📫 **Get in Touch**
 
